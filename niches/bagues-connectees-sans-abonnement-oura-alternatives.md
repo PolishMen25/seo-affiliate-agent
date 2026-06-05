@@ -1,5 +1,7 @@
 # Bagues connectees sans abonnement et alternatives a Oura
 
+![Comparatif bagues connectees sans abonnement](../assets/smart-rings-no-subscription.svg)
+
 Derniere mise a jour : 2026-06-05
 
 ## Resume strategique
