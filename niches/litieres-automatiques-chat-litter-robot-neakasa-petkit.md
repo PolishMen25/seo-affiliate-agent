@@ -1,5 +1,7 @@
 # Litieres automatiques pour chats : Litter-Robot vs Neakasa vs Petkit
 
+![Comparatif litieres automatiques pour chats](../assets/automatic-cat-litter-comparison.svg)
+
 Derniere mise a jour : 2026-06-05
 
 ## Resume strategique
