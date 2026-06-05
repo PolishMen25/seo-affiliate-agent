@@ -1,5 +1,7 @@
 # Plan d'article transactionnel : eSIM Japon et Europe par profil de voyage
 
+![Comparatif eSIM Japon Europe par profil de voyage](../assets/esim-japan-europe-comparison.svg)
+
 Derniere mise a jour : 2026-06-05
 
 ## Verdict business
