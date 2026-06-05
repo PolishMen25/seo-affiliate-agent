@@ -1,5 +1,7 @@
 # Plan d'article transactionnel : stations d'energie portables CPAP, camping et coupures
 
+![Stations energie portables CPAP camping et coupures](../assets/portable-power-station-cpap-camping.svg)
+
 Derniere mise a jour : 2026-06-05
 
 ## Verdict business
