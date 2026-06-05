@@ -1,5 +1,7 @@
 # The Next AI Shift Is Not Better Chatbots. It Is Governed Agents.
 
+![Governed AI agents workflow visual](../assets/governed-workplace-ai-agents.svg)
+
 **Date:** 2026-06-05  
 **Topic:** Agentic AI, workplace automation, enterprise AI adoption  
 **Audience goal:** Help professionals understand why the current AI opportunity is shifting from individual prompting to structured, governed workflows.
