@@ -1,5 +1,7 @@
 # The App Era Is Starting to Look Heavy
 
+![App-first computing versus agent-first computing](../assets/agent-first-devices-editorial.svg)
+
 **Date:** 2026-06-05  
 **Topic:** AI agents, agent-first devices, enterprise computing, Microsoft Project Solara  
 **Format:** Premium social post with visual concept  
