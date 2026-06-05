@@ -1,10 +1,23 @@
 # SEO Affiliate Agent
 
-Contenus SEO et niches rentables gaming.
+Contenus SEO et niches rentables multi-niches.
 
 Derniere mise a jour : 2026-06-05
 
-## Niches prioritaires publiees
+## Opportunites multi-niches prioritaires
+
+| Priorite | Niche | Intention d'achat | Fichier |
+| --- | --- | --- | --- |
+| 1 | eSIM Japon / Europe par profil de voyage | Tres forte | [plans/comparatif-esim-japon-europe-voyage.md](plans/comparatif-esim-japon-europe-voyage.md) |
+| 2 | Bagues connectees sans abonnement et alternatives a Oura | Forte | [niches/bagues-connectees-sans-abonnement-oura-alternatives.md](niches/bagues-connectees-sans-abonnement-oura-alternatives.md) |
+| 3 | Litieres automatiques pour chats Litter-Robot / Neakasa / Petkit | Tres forte | [niches/litieres-automatiques-chat-litter-robot-neakasa-petkit.md](niches/litieres-automatiques-chat-litter-robot-neakasa-petkit.md) |
+| 4 | Stations d'energie portables CPAP / camping / coupures | Forte | [plans/stations-energie-portables-cpap-camping.md](plans/stations-energie-portables-cpap-camping.md) |
+
+## Analyse de veille recente
+
+- [Opportunites SEO affiliation multi-niches - 2026-06-05](analyses/opportunites-seo-affiliation-2026-06-05.md)
+
+## Niches gaming deja publiees
 
 | Priorite | Niche | Intention d'achat | Fichier |
 | --- | --- | --- | --- |
@@ -16,8 +29,8 @@ Derniere mise a jour : 2026-06-05
 
 ## Convention liens affilies
 
-Quand aucun lien tracke n'est fourni, utiliser le placeholder `LIEN_AFFILIE_A_AJOUTER` au niveau du produit concerne.
+Quand aucun lien tracke n'est fourni, utiliser le placeholder `LIEN_AFFILIE_A_AJOUTER` au niveau du produit concerne. Quand plusieurs offres sont citees, utiliser un placeholder explicite par offre.
 
 ## Prochaine action conseillee
 
-Produire en priorite un comparatif transactionnel sur les cartes microSD Express Switch 2, puis un guide d'achat Quest 3S centre sur batterie + confort. Ces deux niches combinent probleme utilisateur clair, achat rapide et forte actualite produit.
+Produire en priorite le comparatif transactionnel eSIM Japon, puis la page `meilleure bague connectee sans abonnement`. Ces deux sujets combinent achat proche, actualite recente, catalogue affilie exploitable et potentiel de conversion rapide.
