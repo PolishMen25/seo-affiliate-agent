@@ -2,9 +2,23 @@
 
 Contenus SEO et niches rentables multi-niches.
 
-Derniere mise a jour : 2026-06-05
+Derniere mise a jour : 2026-06-06
 
-## Opportunites multi-niches prioritaires
+## Opportunites multi-niches prioritaires - veille 2026-06-06
+
+| Priorite | Niche | Intention d'achat | Fichier |
+| --- | --- | --- | --- |
+| 1 | Robots tondeuses sans fil RTK / LiDAR / vision | Tres forte | [niches/robots-tondeuses-sans-fil-rtk-lidar-vision-2026.md](niches/robots-tondeuses-sans-fil-rtk-lidar-vision-2026.md) |
+| 2 | Robots piscine sans fil par type de bassin | Tres forte | [plans/comparatif-robots-piscine-sans-fil-2026.md](plans/comparatif-robots-piscine-sans-fil-2026.md) |
+| 3 | Climatiseurs portables dual-hose inverter pour appartement | Forte | [plans/climatiseurs-portables-dual-hose-inverter-appartement.md](plans/climatiseurs-portables-dual-hose-inverter-appartement.md) |
+| 4 | Dehumidificateurs de sous-sol avec pompe | Forte | [niches/dehumidificateurs-sous-sol-avec-pompe-drainage-continu.md](niches/dehumidificateurs-sous-sol-avec-pompe-drainage-continu.md) |
+
+## Analyse de veille recente
+
+- [Opportunites SEO affiliation multi-niches - 2026-06-06](analyses/opportunites-seo-affiliation-2026-06-06.md)
+- [Opportunites SEO affiliation multi-niches - 2026-06-05](analyses/opportunites-seo-affiliation-2026-06-05.md)
+
+## Opportunites multi-niches deja identifiees - 2026-06-05
 
 | Priorite | Niche | Intention d'achat | Fichier |
 | --- | --- | --- | --- |
@@ -12,10 +26,6 @@ Derniere mise a jour : 2026-06-05
 | 2 | Bagues connectees sans abonnement et alternatives a Oura | Forte | [niches/bagues-connectees-sans-abonnement-oura-alternatives.md](niches/bagues-connectees-sans-abonnement-oura-alternatives.md) |
 | 3 | Litieres automatiques pour chats Litter-Robot / Neakasa / Petkit | Tres forte | [niches/litieres-automatiques-chat-litter-robot-neakasa-petkit.md](niches/litieres-automatiques-chat-litter-robot-neakasa-petkit.md) |
 | 4 | Stations d'energie portables CPAP / camping / coupures | Forte | [plans/stations-energie-portables-cpap-camping.md](plans/stations-energie-portables-cpap-camping.md) |
-
-## Analyse de veille recente
-
-- [Opportunites SEO affiliation multi-niches - 2026-06-05](analyses/opportunites-seo-affiliation-2026-06-05.md)
 
 ## Niches gaming deja publiees
 
@@ -33,4 +43,4 @@ Quand aucun lien tracke n'est fourni, utiliser le placeholder `LIEN_AFFILIE_A_AJ
 
 ## Prochaine action conseillee
 
-Produire en priorite le comparatif transactionnel eSIM Japon, puis la page `meilleure bague connectee sans abonnement`. Ces deux sujets combinent achat proche, actualite recente, catalogue affilie exploitable et potentiel de conversion rapide.
+Produire en priorite la page pilier `meilleur robot tondeuse sans fil 2026`, puis le comparatif `meilleur robot piscine sans fil selon bassin`. Ces deux sujets combinent saisonnalite, panier moyen eleve, intention d'achat tres forte et besoin de clarification avant achat.
