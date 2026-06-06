@@ -1,11 +1,11 @@
 # Opportunites SEO affiliation multi-niches - 2026-06-06 soir
 
 Date de veille : 2026-06-06
-Objectif : prioriser des sujets a intention commerciale forte, mon monetisables rapidement avec des pages comparatives ou guides d'achat.
+Objectif : prioriser des sujets a intention commerciale forte, monetisables rapidement avec des pages comparatives ou guides d'achat.
 
 ## Synthese priorisee
 
-| Priorite | Opportunite | Verdict business | Intention achat | Monétisation | Concurrence estimee | Action |
+| Priorite | Opportunite | Verdict business | Intention achat | Monetisation | Concurrence estimee | Action |
 |---|---|---|---|---|---|---|
 | 1 | Lave-linge sechants all-in-one ventless a pompe a chaleur pour appartement | Fort, panier tres eleve, mais confiance a travailler | Tres forte | Electromenager 1 500-3 000 USD/EUR selon modele et promo | Moyenne a forte, attaquable par angle appartement/contraintes | Produire comparatif decisionnel GE vs LG vs Samsung |
 | 2 | Ecrans CarPlay portables pour voitures anciennes, avec ou sans dashcam | Fort, besoin simple et conversion rapide | Forte | Accessoires auto 100-300 USD/EUR + cameras + cartes microSD | Moyenne, SERP encore fragmentee | Produire guide achat par installation et usage |
