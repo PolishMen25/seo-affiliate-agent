@@ -4,6 +4,17 @@ Contenus SEO et niches rentables multi-niches.
 
 Derniere mise a jour : 2026-06-06
 
+## Opportunites prioritaires - veille 2026-06-06 soir
+
+| Priorite | Niche | Intention d'achat | Fichier |
+| --- | --- | --- | --- |
+| 1 | Lave-linge sechants all-in-one ventless heat pump pour appartement | Tres forte | [plans/comparatif-lave-linge-sechant-ventless-heat-pump-appartement.md](plans/comparatif-lave-linge-sechant-ventless-heat-pump-appartement.md) |
+| 2 | Ecrans CarPlay portables pour voitures anciennes avec ou sans dashcam | Forte | [plans/ecrans-carplay-portables-voitures-anciennes-dashcam.md](plans/ecrans-carplay-portables-voitures-anciennes-dashcam.md) |
+| 3 | Glacieres electriques a compresseur pour camping / vanlife / road trips | Forte saisonniere | [niches/glacieres-electriques-compresseur-camping-vanlife.md](niches/glacieres-electriques-compresseur-camping-vanlife.md) |
+| 4 | Imprimantes 3D multicolores abordables et alternatives a Bambu | Forte | [plans/imprimantes-3d-multicolores-abordables-bambu-alternatives.md](plans/imprimantes-3d-multicolores-abordables-bambu-alternatives.md) |
+
+Analyse de la veille soir : [Opportunites SEO affiliation multi-niches - 2026-06-06 soir](analyses/opportunites-seo-affiliation-2026-06-06-soir.md)
+
 ## Opportunites complementaires - veille 2026-06-06 apres-midi
 
 | Priorite | Niche | Intention d'achat | Fichier |
@@ -26,6 +37,7 @@ Analyse complementaire : [Opportunites SEO affiliation multi-niches - complement
 
 ## Analyse de veille recente
 
+- [Opportunites SEO affiliation multi-niches - 2026-06-06 soir](analyses/opportunites-seo-affiliation-2026-06-06-soir.md)
 - [Opportunites SEO affiliation multi-niches - complement 2026-06-06](analyses/opportunites-seo-affiliation-2026-06-06-complement.md)
 - [Opportunites SEO affiliation multi-niches - 2026-06-06](analyses/opportunites-seo-affiliation-2026-06-06.md)
 - [Opportunites SEO affiliation multi-niches - 2026-06-05](analyses/opportunites-seo-affiliation-2026-06-05.md)
@@ -55,4 +67,4 @@ Quand aucun lien tracke n'est fourni, utiliser le placeholder `LIEN_AFFILIE_A_AJ
 
 ## Prochaine action conseillee
 
-Produire en priorite la page pilier `meilleure camera surveillance sans abonnement`, puis le comparatif `GE Opal 2.0 vs Euhomy` ou `Joolz Aer2 vs Bugaboo Butterfly 2` selon la saisonnalite editoriale visee.
+Produire en priorite le comparatif `GE Profile UltraFast vs LG WashCombo vs Samsung Bespoke AI`, puis le guide `meilleur ecran CarPlay portable pour voiture ancienne`. Garder la page glaciere electrique a compresseur comme opportunite saisonniere courte a publier avant les departs d'ete.
