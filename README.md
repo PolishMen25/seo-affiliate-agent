@@ -4,6 +4,17 @@ Contenus SEO et niches rentables multi-niches.
 
 Derniere mise a jour : 2026-06-06
 
+## Opportunites complementaires - veille 2026-06-06 apres-midi
+
+| Priorite | Niche | Intention d'achat | Fichier |
+| --- | --- | --- | --- |
+| 1 | Cameras de securite sans abonnement avec stockage local | Forte | [niches/cameras-securite-sans-abonnement-stockage-local.md](niches/cameras-securite-sans-abonnement-stockage-local.md) |
+| 2 | Poussettes cabine avion / voyage bebe | Tres forte | [plans/poussettes-cabine-avion-voyage-bebe.md](plans/poussettes-cabine-avion-voyage-bebe.md) |
+| 3 | Purificateurs d'air pour fumee de feux | Forte saisonniere | [plans/purificateurs-air-fumee-feux-wildfire.md](plans/purificateurs-air-fumee-feux-wildfire.md) |
+| 4 | Machines a glace nugget de comptoir | Forte | [niches/machines-glace-nugget-comptoir-ge-opal-euhomy.md](niches/machines-glace-nugget-comptoir-ge-opal-euhomy.md) |
+
+Analyse complementaire : [Opportunites SEO affiliation multi-niches - complement 2026-06-06](analyses/opportunites-seo-affiliation-2026-06-06-complement.md)
+
 ## Opportunites multi-niches prioritaires - veille 2026-06-06
 
 | Priorite | Niche | Intention d'achat | Fichier |
@@ -15,6 +26,7 @@ Derniere mise a jour : 2026-06-06
 
 ## Analyse de veille recente
 
+- [Opportunites SEO affiliation multi-niches - complement 2026-06-06](analyses/opportunites-seo-affiliation-2026-06-06-complement.md)
 - [Opportunites SEO affiliation multi-niches - 2026-06-06](analyses/opportunites-seo-affiliation-2026-06-06.md)
 - [Opportunites SEO affiliation multi-niches - 2026-06-05](analyses/opportunites-seo-affiliation-2026-06-05.md)
 
@@ -43,4 +55,4 @@ Quand aucun lien tracke n'est fourni, utiliser le placeholder `LIEN_AFFILIE_A_AJ
 
 ## Prochaine action conseillee
 
-Produire en priorite la page pilier `meilleur robot tondeuse sans fil 2026`, puis le comparatif `meilleur robot piscine sans fil selon bassin`. Ces deux sujets combinent saisonnalite, panier moyen eleve, intention d'achat tres forte et besoin de clarification avant achat.
+Produire en priorite la page pilier `meilleure camera surveillance sans abonnement`, puis le comparatif `GE Opal 2.0 vs Euhomy` ou `Joolz Aer2 vs Bugaboo Butterfly 2` selon la saisonnalite editoriale visee.
