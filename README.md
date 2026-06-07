@@ -4,6 +4,17 @@ Contenus SEO et niches rentables multi-niches.
 
 Derniere mise a jour : 2026-06-07
 
+## Opportunites prioritaires - veille 2026-06-07 soir
+
+| Priorite | Niche | Intention d'achat | Fichier |
+| --- | --- | --- | --- |
+| 1 | Detecteurs de fuite d'eau avec arret automatique | Tres forte | [niches/detecteurs-fuite-eau-arret-automatique-maison.md](niches/detecteurs-fuite-eau-arret-automatique-maison.md) |
+| 2 | Mini PC Proxmox / Plex / Home Assistant | Forte | [plans/mini-pc-proxmox-home-lab-plex-home-assistant.md](plans/mini-pc-proxmox-home-lab-plex-home-assistant.md) |
+| 3 | Fours a pizza electriques pour appartement | Forte saisonniere | [plans/fours-pizza-electriques-interieur-appartement-ooni-breville-ninja.md](plans/fours-pizza-electriques-interieur-appartement-ooni-breville-ninja.md) |
+| 4 | Babyphones sans WiFi vs connectes avec abonnement | Forte | [plans/babyphones-sans-wifi-vs-connectes-abonnement.md](plans/babyphones-sans-wifi-vs-connectes-abonnement.md) |
+
+Analyse de la veille soir : [Opportunites SEO affiliation multi-niches - 2026-06-07 soir](analyses/opportunites-seo-affiliation-2026-06-07-soir.md)
+
 ## Opportunites prioritaires - veille 2026-06-07
 
 | Priorite | Niche | Intention d'achat | Fichier |
@@ -48,6 +59,7 @@ Analyse complementaire : [Opportunites SEO affiliation multi-niches - complement
 
 ## Analyse de veille recente
 
+- [Opportunites SEO affiliation multi-niches - 2026-06-07 soir](analyses/opportunites-seo-affiliation-2026-06-07-soir.md)
 - [Opportunites SEO affiliation multi-niches - 2026-06-07](analyses/opportunites-seo-affiliation-2026-06-07.md)
 - [Opportunites SEO affiliation multi-niches - 2026-06-06 soir](analyses/opportunites-seo-affiliation-2026-06-06-soir.md)
 - [Opportunites SEO affiliation multi-niches - complement 2026-06-06](analyses/opportunites-seo-affiliation-2026-06-06-complement.md)
@@ -79,4 +91,4 @@ Quand aucun lien tracke n'est fourni, utiliser le placeholder `LIEN_AFFILIE_A_AJ
 
 ## Prochaine action conseillee
 
-Produire en priorite la page pilier `meilleur systeme anti-moustique terrasse et jardin`, puis le comparatif `jump starter avec compresseur integre`. Garder les stores Matter Thread comme cluster domotique a forte valeur, et le plan SaaS OpusClip / alternatives comme opportunite recurrente a traiter avec verification des prix et programmes avant publication.
+Produire en priorite la page pilier `meilleur detecteur fuite eau avec arret automatique`, puis le guide `mini PC Proxmox pour Plex et Home Assistant`. Garder les fours a pizza electriques comme opportunite saisonniere cuisine/appartement, et le babyphone sans WiFi comme page prudente a forte intention avant achat.
