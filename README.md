@@ -2,7 +2,18 @@
 
 Contenus SEO et niches rentables multi-niches.
 
-Derniere mise a jour : 2026-06-06
+Derniere mise a jour : 2026-06-07
+
+## Opportunites prioritaires - veille 2026-06-07
+
+| Priorite | Niche | Intention d'achat | Fichier |
+| --- | --- | --- | --- |
+| 1 | Systemes anti-moustiques connectes / premium pour patio et jardin | Tres forte saisonniere | [niches/systemes-anti-moustiques-connectes-patio-jardin.md](niches/systemes-anti-moustiques-connectes-patio-jardin.md) |
+| 2 | Jump starters avec compresseur integre pour voiture | Forte | [plans/jump-starter-compresseur-pneu-portable-auto.md](plans/jump-starter-compresseur-pneu-portable-auto.md) |
+| 3 | Stores et rideaux connectes Matter Thread en retrofit | Forte | [plans/stores-connectes-matter-thread-retrofit.md](plans/stores-connectes-matter-thread-retrofit.md) |
+| 4 | Outils IA pour transformer podcasts / webinars en Shorts | Forte SaaS | [plans/outils-ia-shorts-repurposing-podcast-webinar.md](plans/outils-ia-shorts-repurposing-podcast-webinar.md) |
+
+Analyse de la veille : [Opportunites SEO affiliation multi-niches - 2026-06-07](analyses/opportunites-seo-affiliation-2026-06-07.md)
 
 ## Opportunites prioritaires - veille 2026-06-06 soir
 
@@ -37,6 +48,7 @@ Analyse complementaire : [Opportunites SEO affiliation multi-niches - complement
 
 ## Analyse de veille recente
 
+- [Opportunites SEO affiliation multi-niches - 2026-06-07](analyses/opportunites-seo-affiliation-2026-06-07.md)
 - [Opportunites SEO affiliation multi-niches - 2026-06-06 soir](analyses/opportunites-seo-affiliation-2026-06-06-soir.md)
 - [Opportunites SEO affiliation multi-niches - complement 2026-06-06](analyses/opportunites-seo-affiliation-2026-06-06-complement.md)
 - [Opportunites SEO affiliation multi-niches - 2026-06-06](analyses/opportunites-seo-affiliation-2026-06-06.md)
@@ -67,4 +79,4 @@ Quand aucun lien tracke n'est fourni, utiliser le placeholder `LIEN_AFFILIE_A_AJ
 
 ## Prochaine action conseillee
 
-Produire en priorite le comparatif `GE Profile UltraFast vs LG WashCombo vs Samsung Bespoke AI`, puis le guide `meilleur ecran CarPlay portable pour voiture ancienne`. Garder la page glaciere electrique a compresseur comme opportunite saisonniere courte a publier avant les departs d'ete.
+Produire en priorite la page pilier `meilleur systeme anti-moustique terrasse et jardin`, puis le comparatif `jump starter avec compresseur integre`. Garder les stores Matter Thread comme cluster domotique a forte valeur, et le plan SaaS OpusClip / alternatives comme opportunite recurrente a traiter avec verification des prix et programmes avant publication.
